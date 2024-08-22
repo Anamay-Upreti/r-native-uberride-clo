@@ -1,6 +1,6 @@
 import {View, Text, SafeAreaView} from 'react-native'; // Make sure to import Text from 'react-native'
 
-const Sign-In = () => {
+const SignIn = () => {
     return (
         <SafeAreaView>
             <Text>Sign-In</Text>
@@ -8,4 +8,4 @@ const Sign-In = () => {
     );
 };
 
-export default Sign-In;
+export default SignIn;

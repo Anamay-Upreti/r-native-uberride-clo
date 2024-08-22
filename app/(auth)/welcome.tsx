@@ -1,11 +1,11 @@
 import {View, Text, SafeAreaView} from 'react-native'; // Make sure to import Text from 'react-native'
 
-const SignUp = () => {
+const OnBoarding = () => {
     return (
         <SafeAreaView>
-            <Text>Sign-Up</Text>
+            <Text>OnBoarding</Text>
         </SafeAreaView>
     );
 };
 
-export default SignUp;
+export default OnBoarding;
